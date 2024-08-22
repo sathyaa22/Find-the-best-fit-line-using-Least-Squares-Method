@@ -29,7 +29,9 @@ Step 8: Stop the program.
 ## Program:
 
 Program to implement univariate Linear Regression to fit a straight line using least squares.
+
 Developed by: SATHYAA R
+
 RegisterNumber: 212223100052
 
 ```
@@ -72,9 +74,13 @@ plt.show()
 ## Output:
 
 12,23,42,31,9
+
 15,7,45,21,11
+
 0.8963842417701026 -1.1753912574203973
+
 [ 9.58121964 19.4414463  36.4727469  26.61252024  6.89206692]
+
 
 ![regression_sathyaa](https://github.com/user-attachments/assets/d9e8ce06-f2d1-42ad-9ee2-1baeef93ce2e)
 
